@@ -1,0 +1,24 @@
+{
+  "name": "wds-modals",
+  "version": "0.1.0",
+  "description": "Modals powered by React and WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WebDevStudios/wds-modals.git"
+  },
+  "keywords": [
+    "modals",
+    "WordPress",
+    "React"
+  ],
+  "author": "WebDevStudios",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WebDevStudios/wds-modals/issues"
+  },
+  "homepage": "https://github.com/WebDevStudios/wds-modals#readme"
+}
