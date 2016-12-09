@@ -1,9 +1,9 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 
-const TestContainer = require('./components/TestComponent');
+const WDSModal = require('./components/WDSModal');
 
 ReactDOM.render(
-	<TestContainer/>,
+	<WDSModal />,
 	document.getElementById('app')
 );
