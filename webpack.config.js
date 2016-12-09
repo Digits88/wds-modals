@@ -19,5 +19,11 @@ module.exports = {
 	plugins: [
 		new webpack.HotModuleReplacementPlugin(),
 		new webpack.NoErrorsPlugin()
-	]
+	],
+	devServer: {
+		hot: true,
+		inline: true,
+		contentBase: 'public/'
+	},
+	devtool: 'inline-source-map',
 };
